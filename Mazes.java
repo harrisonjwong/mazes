@@ -3,8 +3,6 @@ import java.util.Collections;
 import java.util.Random;
 import java.util.HashMap;
 import javalib.impworld.*;
-
-import java.applet.Applet;
 import java.awt.Color;
 import javalib.worldimages.*;
 
